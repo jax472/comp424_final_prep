@@ -1,0 +1,6 @@
+1. Get the max and min math, reading, and writing scores across all students
+2. Get the average math, reading, and writing score across all students
+3. Get average math score for students who have free/reduced lunches and those who have standard lunches
+4. Get average math score for students who have and have not completed test preparation courses
+5. Return a dictionary that has the average math, reading, writing for each group
+6. Bonus: Take the dictionary from #5 and change it so that it has the average, minimum, and max scores for math, reading, and writing for each group
